@@ -23,10 +23,14 @@ SRE / DevOps engineer with 10+ years in IT and 5+ in cloud. I run high-criticali
 
 ## 🌱 Open source
 
-Recent contributions to [**habblaud**](https://github.com/marmottajr/habblaud), a TypeScript project:
+**13 merged PRs** in [**habblaud**](https://github.com/marmottajr/habblaud) (⭐ 400+), a TypeScript virtual office for AI coding agents. Each one small and focused, with a regression test or a before/after measurement.
 
-- ✅ [#14](https://github.com/marmottajr/habblaud/pull/14): fixed transcript rotation when the OS reuses an inode, so the new file no longer goes unnoticed. *Merged.*
-- ✅ [#17](https://github.com/marmottajr/habblaud/pull/17): added the project's first CI workflow on GitHub Actions. *Merged.*
+- **CI & supply chain:** the project's first CI workflow on GitHub Actions ([#17](https://github.com/marmottajr/habblaud/pull/17)), Dependabot for npm, Docker and Actions ([#75](https://github.com/marmottajr/habblaud/pull/75)), base image pinned by digest ([#93](https://github.com/marmottajr/habblaud/pull/93)) and the container's in-memory `/tmp` capped at 64 MB ([#94](https://github.com/marmottajr/habblaud/pull/94)).
+- **Reliability:** transcript rotation when the OS reuses an inode ([#14](https://github.com/marmottajr/habblaud/pull/14)), files rewritten in place ([#90](https://github.com/marmottajr/habblaud/pull/90)), a permission-queue tie within the same millisecond ([#88](https://github.com/marmottajr/habblaud/pull/88)) and the daily wait limit ([#89](https://github.com/marmottajr/habblaud/pull/89)).
+- **UI:** usage cards no longer cover the toolbar ([#87](https://github.com/marmottajr/habblaud/pull/87)), mobile top-bar and "My day" fixes ([#91](https://github.com/marmottajr/habblaud/pull/91), [#92](https://github.com/marmottajr/habblaud/pull/92)), toasts above the timelapse bar ([#85](https://github.com/marmottajr/habblaud/pull/85)).
+- **Docs:** Portuguese contribution guide ([#46](https://github.com/marmottajr/habblaud/pull/46)).
+
+🔄 **In review:** OpenCode and Antigravity support (live events, approvals, messages, usage), split into 9 stacked PRs ([#47](https://github.com/marmottajr/habblaud/pull/47), [#76–#83](https://github.com/marmottajr/habblaud/pulls?q=is%3Apr+is%3Aopen+author%3Alpalvess)), and the app version in the window title for [tobi/disktree#83](https://github.com/tobi/disktree/pull/83).
 
 ## 🧰 Toolbox
 

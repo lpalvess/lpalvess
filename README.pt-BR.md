@@ -23,10 +23,14 @@ Engenheiro SRE / DevOps com mais de 10 anos em TI, 5+ deles em cloud. Cuido de i
 
 ## 🌱 Open source
 
-Contribuições recentes no [**habblaud**](https://github.com/marmottajr/habblaud), projeto em TypeScript:
+**13 PRs mesclados** no [**habblaud**](https://github.com/marmottajr/habblaud) (⭐ 400+), um escritório virtual em TypeScript para agentes de IA. Cada um pequeno e focado, com teste de regressão ou medição de antes e depois.
 
-- ✅ [#14](https://github.com/marmottajr/habblaud/pull/14): corrigi a rotação de transcript quando o sistema reaproveita o inode; o arquivo novo não fica mais escondido. *Merged.*
-- ✅ [#17](https://github.com/marmottajr/habblaud/pull/17): criei o primeiro workflow de CI do projeto no GitHub Actions. *Merged.*
+- **CI e cadeia de suprimentos:** o primeiro workflow de CI do projeto no GitHub Actions ([#17](https://github.com/marmottajr/habblaud/pull/17)), Dependabot para npm, Docker e Actions ([#75](https://github.com/marmottajr/habblaud/pull/75)), imagem base presa pelo digest ([#93](https://github.com/marmottajr/habblaud/pull/93)) e o `/tmp` em memória do container limitado a 64 MB ([#94](https://github.com/marmottajr/habblaud/pull/94)).
+- **Confiabilidade:** rotação de transcript quando o sistema reaproveita o inode ([#14](https://github.com/marmottajr/habblaud/pull/14)), arquivo reescrito no mesmo lugar ([#90](https://github.com/marmottajr/habblaud/pull/90)), empate na fila de permissões no mesmo milissegundo ([#88](https://github.com/marmottajr/habblaud/pull/88)) e o limite diário de esperas ([#89](https://github.com/marmottajr/habblaud/pull/89)).
+- **Interface:** cartões de uso que não cobrem mais a barra ([#87](https://github.com/marmottajr/habblaud/pull/87)), correções da barra e do "Meu dia" no celular ([#91](https://github.com/marmottajr/habblaud/pull/91), [#92](https://github.com/marmottajr/habblaud/pull/92)), avisos acima da barra do timelapse ([#85](https://github.com/marmottajr/habblaud/pull/85)).
+- **Documentação:** guia de contribuição em português ([#46](https://github.com/marmottajr/habblaud/pull/46)).
+
+🔄 **Em revisão:** suporte ao OpenCode e ao Antigravity (eventos ao vivo, aprovações, mensagens, uso), dividido em 9 PRs empilhados ([#47](https://github.com/marmottajr/habblaud/pull/47), [#76–#83](https://github.com/marmottajr/habblaud/pulls?q=is%3Apr+is%3Aopen+author%3Alpalvess)), e a versão do app no título da janela no [tobi/disktree#83](https://github.com/tobi/disktree/pull/83).
 
 ## 🧰 Ferramentas
 
