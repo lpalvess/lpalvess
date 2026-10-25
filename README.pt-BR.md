@@ -36,8 +36,10 @@ Engenheiro SRE / DevOps com mais de 10 anos em TI, 5+ deles em cloud. Cuido de i
 
 - **Chronos** *(projeto pessoal)* — Widget para Windows que acompanha o uso do Claude Code em contas do Windows e WSL, desenvolvido com Rust, Tauri 2 e TypeScript.
 - [**sourced-postmortem**](https://github.com/lpalvess/sourced-postmortem) — Verificador em Python que confere postmortems contra logs e métricas, valida timelines e ações e roda em Docker sem acesso à rede.
-- [**sourced-carousel**](https://github.com/lpalvess/sourced-carousel) — Gera carrosséis em PDF/PNG com uma etapa de validação dos números dos slides contra os fatos fornecidos, em contêiner sem rede.
+- [**sourced-carousel**](https://github.com/lpalvess/sourced-carousel) — Gera carrosséis em PDF/PNG com uma etapa de validação dos números dos slides contra os fatos fornecidos, em contêiner sem rede. *Plugin submetido à Anthropic; aguardando aprovação.*
 - [**study-loop**](https://github.com/lpalvess/study-loop-skill) — Skill para assistentes de código com IA, com recuperação ativa, flashcards e repetição espaçada, usando armazenamento local em Python.
+
+**Segurança e qualidade na prática:** atualização de dependências com Dependabot, imagens de contêiner fixadas por digest, execução sem rede e ocultação de credenciais; testes unitários e de regressão com Vitest, além de testes de ponta a ponta com Playwright.
 
 ## 🧰 Ferramentas
 
