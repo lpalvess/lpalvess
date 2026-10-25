@@ -36,8 +36,10 @@ SRE / DevOps engineer with 10+ years in IT and 5+ in cloud. I run high-criticali
 
 - **Chronos** *(personal project)* — Windows widget for monitoring Claude Code usage across Windows and WSL accounts, built with Rust, Tauri 2 and TypeScript.
 - [**sourced-postmortem**](https://github.com/lpalvess/sourced-postmortem) — Python verifier that checks incident postmortems against logs and metrics, validates timelines and action items, and runs in Docker without network access.
-- [**sourced-carousel**](https://github.com/lpalvess/sourced-carousel) — Generates PDF/PNG carousels with a validation step that checks slide numbers against supplied facts, running in an offline container.
+- [**sourced-carousel**](https://github.com/lpalvess/sourced-carousel) — Generates PDF/PNG carousels with a validation step that checks slide numbers against supplied facts, running in an offline container. *Plugin submitted to Anthropic; awaiting approval.*
 - [**study-loop**](https://github.com/lpalvess/study-loop-skill) — AI coding assistant skill for active recall, flashcards and spaced repetition, with local Python storage.
+
+**Security & quality in practice:** dependency updates with Dependabot, digest-pinned container images, offline execution and credential redaction; unit and regression tests with Vitest, plus end-to-end tests with Playwright.
 
 ## 🧰 Toolbox
 
