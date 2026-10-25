@@ -7,6 +7,8 @@
 
 SRE / DevOps engineer with 10+ years in IT and 5+ in cloud. I run high-criticality infrastructure where downtime is not an option. I build observability that pages for the right reasons, automate the toil away, and write the post-mortem so it never happens twice.
 
+My current focus is building with AI: vibe coding, skills, MCP integrations and SaaS products, backed by my experience in reliability and automation.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--alvesp-0A66C2?style=flat-square)](https://www.linkedin.com/in/lucas-alvesp/)
 ![Open to remote](https://img.shields.io/badge/Open_to-remote_SRE_%C2%B7_DevOps_%C2%B7_Platform-3fb950?style=flat-square)
 
