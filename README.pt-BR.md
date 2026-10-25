@@ -7,6 +7,8 @@
 
 Engenheiro SRE / DevOps com mais de 10 anos em TI, 5+ deles em cloud. Cuido de infraestrutura de alta criticidade, onde cair não é opção. Construo observabilidade que alerta pelo motivo certo, automatizo o trabalho repetitivo e escrevo o post-mortem para o problema não voltar.
 
+Meu foco atual é construir com IA: vibe coding, skills, integrações MCP e produtos SaaS, apoiado pela minha experiência em confiabilidade e automação.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--alvesp-0A66C2?style=flat-square)](https://www.linkedin.com/in/lucas-alvesp/)
 ![Aberto a vagas remotas](https://img.shields.io/badge/Aberto_a-remoto_SRE_%C2%B7_DevOps_%C2%B7_Platform-3fb950?style=flat-square)
 
