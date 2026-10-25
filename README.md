@@ -32,13 +32,21 @@ SRE / DevOps engineer with 10+ years in IT and 5+ in cloud. I run high-criticali
 
 🔄 **In review:** OpenCode and Antigravity support (live events, approvals, messages, usage), split into 9 stacked PRs ([#47](https://github.com/marmottajr/habblaud/pull/47), [#76–#83](https://github.com/marmottajr/habblaud/pulls?q=is%3Apr+is%3Aopen+author%3Alpalvess)), and the app version in the window title for [tobi/disktree#83](https://github.com/tobi/disktree/pull/83).
 
+## 🛠️ Projects
+
+- **Chronos** *(personal project)* — Windows widget for monitoring Claude Code usage across Windows and WSL accounts, built with Rust, Tauri 2 and TypeScript.
+- [**sourced-postmortem**](https://github.com/lpalvess/sourced-postmortem) — Python verifier that checks incident postmortems against logs and metrics, validates timelines and action items, and runs in Docker without network access.
+- [**sourced-carousel**](https://github.com/lpalvess/sourced-carousel) — Generates PDF/PNG carousels with a validation step that checks slide numbers against supplied facts, running in an offline container.
+- [**study-loop**](https://github.com/lpalvess/study-loop-skill) — AI coding assistant skill for active recall, flashcards and spaced repetition, with local Python storage.
+
 ## 🧰 Toolbox
 
 | | |
 |---|---|
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 | **Containers** | ![Kubernetes](https://img.shields.io/badge/Kubernetes_%28EKS,_OKE%29-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) |
+| **Languages** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) |
+| **Desktop & frontend** | ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | **IaC & automation** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
 | **AI-assisted engineering** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=flat-square) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) |
