@@ -9,7 +9,7 @@ Engenheiro SRE / DevOps com mais de 10 anos em TI, 5+ deles em cloud. Cuido de i
 
 Meu foco atual é construir com IA: vibe coding, skills, integrações MCP e produtos SaaS, apoiado pela minha experiência em confiabilidade e automação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--alvesp-0A66C2?style=flat-square)](https://www.linkedin.com/in/lucas-alvesp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--alvesp-0A66C2?style=flat-square)](https://www.linkedin.com/in/lucas-a-282a36371/)
 ![Aberto a vagas remotas](https://img.shields.io/badge/Aberto_a-remoto_SRE_%C2%B7_DevOps_%C2%B7_Platform-3fb950?style=flat-square)
 
 🌎 [Read in English](./README.md)
